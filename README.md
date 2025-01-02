@@ -6,21 +6,10 @@ I'm working as a **DevOps Intern** at **WatchGuard Technologies**, where I get t
 
 ---
 
-## 🛠️ My Tech Stack  
-
-| **Technology**   | **Icon**                                                                                           |
-|-------------------|---------------------------------------------------------------------------------------------------|
-| **Programming**   | <img alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  |
-| **Cloud**         | <img alt="AWS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />  |
-| **Frameworks**    | <img alt="AngularJS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />  |
-| **CI/CD Tools**   | <img alt="Jenkins" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />  |
-
----
-
 ## 🔥 **Key Skills at a Glance:**  
 <div align="center">
   <img alt="Python" width="70px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="AWS" width="70px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+  <img alt="AWS" width="70px" style="margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />
   <img alt="AngularJS" width="70px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img alt="Jenkins" width="70px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
 </div>
