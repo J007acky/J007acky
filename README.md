@@ -12,6 +12,7 @@ I'm working as a **DevOps Intern** at **WatchGuard Technologies**, where I get t
   <img alt="AWS" width="70px" style="margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />
   <img alt="AngularJS" width="70px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img alt="Jenkins" width="70px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+  <img alt="Kubernetes" width="70px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
 </div>
 
 ---
