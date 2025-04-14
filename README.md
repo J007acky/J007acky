@@ -1,7 +1,9 @@
 # 👋 Hi there!  
+
 I'm **Rahul Singh Rautela**, a final-year Computer Science student passionate about exploring new tech domains and learning new skills.  
 
 🎯 **Currently:**  
+
 I'm working as a **DevOps Intern** at **WatchGuard Technologies**, where I get to dive deep into the DevOps world and sharpen my skills.  
 
 ---
@@ -13,6 +15,8 @@ I'm working as a **DevOps Intern** at **WatchGuard Technologies**, where I get t
   <img alt="AngularJS" width="70px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img alt="Jenkins" width="70px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
   <img alt="Kubernetes" width="70px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+  <img alt="Docker" width="70px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+  <img alt="Terraform" width="70px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-plain.svg" />
 </div>
 
 ---
